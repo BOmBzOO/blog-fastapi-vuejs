@@ -30,7 +30,6 @@ python-multipart>=0.0.5
 requests>=2.23.0
 six>=1.14.0
 starlette>=0.12.9
-tests>=0.7
 umongo>=3.0.0
 urllib3>=1.25.8
 uvicorn>=0.11.7
